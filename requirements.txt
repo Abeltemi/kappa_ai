@@ -1,0 +1,6 @@
+Package                   Version
+------------------------- --------------
+gradio                    5.18.0
+groq                      0.18.04
+openai                    1.64.0
+PyAudio                   0.2.14
